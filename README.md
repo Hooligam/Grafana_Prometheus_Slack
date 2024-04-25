@@ -41,7 +41,7 @@ Se tudo estiver corretamente configurado, vamos receber o seguinte resultado no 
 
 O Alertmanager é responsável por gerenciar e enviar alertas. Vamos criar um arquivo de configuração YAML para que o Alertmanager envie alertas para o Slack via WebHook.
 
-![Grafana](./pngs/04.png)
+![Grafana](./pngs/04%20confg%20no%20alert%20com%20integração%20webhook.png)
 
 **Inicialização dos Contêineres do Projeto**
 
